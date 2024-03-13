@@ -9,8 +9,8 @@
 ISBN 978-4-7741-9690-9
 
 ## 目次
-* [x] 値の交換: exchange of values
-* [ ] 誤り検出符号
+* [x] 値の交換: exchange-of-values
+* [x] 誤り検出符号: error-detecting-code
 * [ ] アルゴリズム
 * [ ] 暗号
 * [ ] 安定な結婚
